@@ -1,0 +1,19 @@
+----------【HTML】----------
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+9-1-6 スクロールをするとタイムラインの縦線が伸びる
+
+2000
+出来事の見出し
+
+テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+
+<!----- js ----->
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<!-- script.js -->
+<script src="assets/js/script.js"></script>
+
+
+----------【CSS】----------
+@import "https://unpkg.com/ress/dist/ress.min.css";
